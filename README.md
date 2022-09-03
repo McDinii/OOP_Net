@@ -1,2 +1,2 @@
-# FAnP_Net
-Here u can find my fanp_.net labs 
+#Denis Nechay-Nitsevich
+IT 2 year Group: 7 Specialization: Mobile systems software
