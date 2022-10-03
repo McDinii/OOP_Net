@@ -8,7 +8,8 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        // task 1 I AM DENIS NECHAY-NECOFE
+        Console.ForegroundColor = ConsoleColor.DarkMagenta;
+        // task 1
         // A
         int age = 10;
         char animal = 'd';
@@ -212,7 +213,7 @@ internal class Program
 
             try
             {
-                b = checked((int)a);
+                b = ((int)a + 1 );
             }
             catch (OverflowException e)
             {
