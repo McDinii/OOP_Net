@@ -1,0 +1,15 @@
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.csproj.AssemblyReference.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.AssemblyInfoInputs.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.AssemblyInfo.cs
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.csproj.CoreCompileInputs.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\bin\Debug\net6.0\Laba_04.exe
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\bin\Debug\net6.0\Laba_04.deps.json
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\bin\Debug\net6.0\Laba_04.runtimeconfig.json
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\bin\Debug\net6.0\Laba_04.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\bin\Debug\net6.0\Laba_04.pdb
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\refint\Laba_04.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.pdb
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\Laba_04.genruntimeconfig.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_04\obj\Debug\net6.0\ref\Laba_04.dll

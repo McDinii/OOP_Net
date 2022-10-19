@@ -22,7 +22,7 @@
         public MiSet(string value) // конструктор со строковым параметром
         {
             _set = new HashSet<string> { value }; // создаем новый экземпляр класса nbg
-        }
+        }                                                                                                                                
 
         public void ProductionInitialization(int id, string organization) // метод создания экземпляра внешнего класса Production 
         {
@@ -60,7 +60,7 @@
                 foreach (var item in _set) // иначе прохдимся циклом по множеству
                 {
                     if (size == index) // пока индекс не совпадет 
-                        return item;  // выводим индекс 
+                        return item;  // выводим Элемент по индексу
                     size++;
                 }
 
