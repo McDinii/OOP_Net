@@ -1,0 +1,17 @@
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Laba_05.exe
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Laba_05.deps.json
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Laba_05.runtimeconfig.json
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Laba_05.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Laba_05.pdb
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.csproj.AssemblyReference.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.AssemblyInfoInputs.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.AssemblyInfo.cs
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.csproj.CoreCompileInputs.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\refint\Laba_05.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.pdb
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.genruntimeconfig.cache
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\ref\Laba_05.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ВУЗ\2nd-year\FAnP_Net\Laba_05\Laba_04\obj\Debug\net6.0\Laba_05.csproj.CopyComplete

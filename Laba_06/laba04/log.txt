@@ -1,0 +1,85 @@
+10/18/2022 1:09:55 PM, Information: invalid type
+10/18/2022 1:10:39 PM, Information: invalid type
+10/18/2022 1:10:39 PM, Information: energy can't be negative
+10/18/2022 1:11:48 PM, Information: invalid type
+10/18/2022 1:11:48 PM, Information: energy can't be negative
+10/18/2022 1:11:53 PM, Information: invalid type
+10/18/2022 1:11:53 PM, Information: energy can't be negative
+10/18/2022 1:13:03 PM, Information: invalid type
+10/18/2022 1:13:03 PM, Information: energy can't be negative
+10/18/2022 1:13:03 PM, Information: we support only two genders a boy and a girl
+10/18/2022 1:13:03 PM, Information: you have an invalid character
+10/18/2022 1:13:12 PM, Information: invalid type
+10/18/2022 1:13:12 PM, Information: energy can't be negative
+10/18/2022 1:13:12 PM, Information: we support only two genders a boy and a girl
+10/18/2022 1:13:12 PM, Information: you have an invalid character
+10/18/2022 1:13:12 PM, Information: fuel can't be negative
+10/18/2022 1:13:26 PM, Information: invalid type
+10/18/2022 1:13:26 PM, Information: energy can't be negative
+10/18/2022 1:13:26 PM, Information: we support only two genders a boy and a girl
+10/18/2022 1:13:26 PM, Information: you have an invalid character
+10/18/2022 1:13:26 PM, Information: fuel can't be negative
+10/18/2022 1:13:35 PM, Information: invalid type
+10/18/2022 1:13:35 PM, Information: energy can't be negative
+10/18/2022 1:13:35 PM, Information: we support only two genders a boy and a girl
+10/18/2022 1:13:35 PM, Information: you have an invalid character
+10/18/2022 1:13:35 PM, Information: fuel can't be negative
+10/18/2022 1:13:51 PM, Information: invalid type
+10/18/2022 1:13:51 PM, Information: energy can't be negative
+10/18/2022 1:13:51 PM, Information: we support only two genders a boy and a girl
+10/18/2022 1:13:51 PM, Information: you have an invalid character
+10/18/2022 1:13:51 PM, Information: fuel can't be negative
+10/25/2022 4:17:46 PM, Information: invalid type
+10/25/2022 4:17:46 PM, Information: energy can't be negative
+10/25/2022 4:17:46 PM, Information: we support only two genders a boy and a girl
+10/25/2022 4:17:46 PM, Information: you have an invalid character
+10/25/2022 4:17:46 PM, Information: fuel can't be negative
+10/25/2022 4:32:10 PM, Information: invalid type
+10/25/2022 4:32:10 PM, Information: energy can't be negative
+10/25/2022 4:32:10 PM, Information: we support only two genders a boy and a girl
+10/25/2022 4:32:10 PM, Information: you have an invalid character
+10/25/2022 4:32:10 PM, Information: fuel can't be negative
+11/12/2022 3:07:17 PM, Information: invalid type
+11/12/2022 3:07:17 PM, Information: energy can't be negative
+11/12/2022 3:07:17 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:07:17 PM, Information: you have an invalid character
+11/12/2022 3:07:17 PM, Information: fuel can't be negative
+11/12/2022 3:08:09 PM, Information: invalid type
+11/12/2022 3:08:09 PM, Information: energy can't be negative
+11/12/2022 3:08:09 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:08:09 PM, Information: you have an invalid character
+11/12/2022 3:08:09 PM, Information: fuel can't be negative
+11/12/2022 3:12:22 PM, Information: invalid type
+11/12/2022 3:12:22 PM, Information: energy can't be negative
+11/12/2022 3:12:22 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:12:22 PM, Information: you have an invalid character
+11/12/2022 3:12:22 PM, Information: fuel can't be negative
+11/12/2022 3:14:04 PM, Information: invalid type
+11/12/2022 3:14:04 PM, Information: energy can't be negative
+11/12/2022 3:14:04 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:14:04 PM, Information: you have an invalid character
+11/12/2022 3:14:04 PM, Information: fuel can't be negative
+11/12/2022 3:23:56 PM, Information: invalid type
+11/12/2022 3:23:56 PM, Information: energy can't be negative
+11/12/2022 3:23:56 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:23:56 PM, Information: you have an invalid character
+11/12/2022 3:23:56 PM, Information: fuel can't be negative
+11/12/2022 3:24:32 PM, Information: invalid type
+11/12/2022 3:24:32 PM, Information: energy can't be negative
+11/12/2022 3:24:32 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:24:32 PM, Information: you have an invalid character
+11/12/2022 3:24:32 PM, Information: fuel can't be negative
+11/12/2022 3:24:55 PM, Information: energy can't be negative
+11/12/2022 3:24:55 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:24:55 PM, Information: you have an invalid character
+11/12/2022 3:24:55 PM, Information: fuel can't be negative
+11/12/2022 3:28:27 PM, Information: invalid type
+11/12/2022 3:28:27 PM, Information: energy can't be negative
+11/12/2022 3:28:27 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:28:27 PM, Information: you have an invalid character
+11/12/2022 3:28:27 PM, Information: fuel can't be negative
+11/12/2022 3:45:51 PM, Information: invalid type
+11/12/2022 3:45:51 PM, Information: energy can't be negative
+11/12/2022 3:45:51 PM, Information: we support only two genders a boy and a girl
+11/12/2022 3:45:51 PM, Information: you have an invalid character
+11/12/2022 3:45:51 PM, Information: fuel can't be negative

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1U25jAhXD3bu0yBEjhew7A7Z0hqQNhtzijJwBA8IQZ8fM3iRZuCxZyfbmU6VjO8nOnPABmouLzOnTpfcsOjcA==",
+  "success": true,
+  "projectFilePath": "D:\\ВУЗ\\2nd-year\\FAnP_Net\\Laba_05\\Laba_04\\Laba_05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
