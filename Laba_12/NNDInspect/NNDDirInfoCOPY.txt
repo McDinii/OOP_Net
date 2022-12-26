@@ -1,0 +1,50 @@
+----------Directory----------
+$RECYCLE.BIN
+apps
+AvTunProxy
+Bull&Bear
+CheckiO
+Config.Msi
+Dini_Docs
+Django_petprojects
+dow
+FileZilla FTP Client
+games
+MAMP
+MAMPPRO
+MapData
+Multilingual Online Translator
+Music
+Nechay Photo
+ooffice
+OSPanel
+Pictures
+Program Files
+pythonProject
+qBittorrent
+SteamLibrary
+System Volume Information
+Tenorshare UltData
+User
+VirtualBox VMs
+vurtual_box
+Winaero Tweaker
+WindowsApps
+Work
+WpSystem
+WUDownloadCache
+белодед
+ВУЗ
+денисНЕстароста
+Книги
+Обои для ноутбука
+программирование
+-------------------------------
+----------Files----------
+DumpStack.log
+DumpStack.log.tmp
+pagefile.sys
+PDF_0001.pdf
+VID_20220915_161906.mp4
+Windows 10 (C) - Shortcut.lnk
+-------------------------

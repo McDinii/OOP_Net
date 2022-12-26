@@ -1,0 +1,46 @@
+Laba_11.Program.Assembly: Laba_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Laba_11.MiSet.Assembly: Laba_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Public Constructors of Laba_11.MiSet:
+
+Puclic Constructors count 0:
+	 Void .ctor(System.String)
+
+Public Methods of MiSet:
+
+Public Methods count 11:
+	 Void ProductionInitialization(Int32, System.String)
+	 Void Show()
+	 Void ToConsole(System.Collections.Generic.List`1[System.String])
+	 Void DeveloperInitialization(System.String, Int32, System.String)
+	 System.String get_Item(Int32)
+	 Void set_Item(Int32, System.String)
+	 Void Print()
+	 System.Type GetType()
+	 System.String ToString()
+	 Boolean Equals(System.Object)
+	 Int32 GetHashCode()
+
+
+Fields:
+System.Collections.Generic.HashSet`1[System.String] _set
+Developer developer
+Laba_11.Production production
+
+
+Properties:
+System.String Item [Int32]
+
+
+Interfaces:
+Laba_11.IShow
+
+
+Param Methods:
+Void ProductionInitialization(Int32, System.String)
+Void DeveloperInitialization(System.String, Int32, System.String)
+Void DeveloperInitialization(System.String, Int32, System.String)
+Void set_Item(Int32, System.String)
+Laba_11.MiSet op_Addition(Laba_11.MiSet, System.String)
+
+
