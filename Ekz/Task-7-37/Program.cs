@@ -160,7 +160,7 @@ namespace Task37
      }*/
 
     [Serializable]
-  public class Time : IComparable<Time>
+     public class Time : IComparable<Time>
     {
         public Time(int h,int m,int s)
         {Hours = h;
